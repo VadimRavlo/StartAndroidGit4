@@ -1,1 +1,1 @@
-include ':app', ':p1021touch', ':p1031multitouch'
+include ':app', ':p1021touch', ':p1031multitouch', ':p1041fragmentlifecycle'

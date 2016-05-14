@@ -1,1 +1,1 @@
-include ':app', ':p1021touch', ':p1031multitouch', ':p1041fragmentlifecycle', ':p1051fragmentdynamic'
+include ':app', ':p1021touch', ':p1031multitouch', ':p1041fragmentlifecycle', ':p1051fragmentdynamic', ':p1061fragmentactivity'

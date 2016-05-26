@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/p1051fragmentdynamic/p1051fragmentdynamic.iml" filepath="$PROJECT_DIR$/p1051fragmentdynamic/p1051fragmentdynamic.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1061fragmentactivity/p1061fragmentactivity.iml" filepath="$PROJECT_DIR$/p1061fragmentactivity/p1061fragmentactivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1071actionbaritem/p1071actionbaritem.iml" filepath="$PROJECT_DIR$/p1071actionbaritem/p1071actionbaritem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1081actionbarnavigation/p1081actionbarnavigation.iml" filepath="$PROJECT_DIR$/p1081actionbarnavigation/p1081actionbarnavigation.iml" />
     </modules>
   </component>
 </project>

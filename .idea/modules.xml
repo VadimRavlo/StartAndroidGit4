@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StartAndroidGit4.iml" filepath="$PROJECT_DIR$/StartAndroidGit4.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0791xmlpullparser/p0791xmlpullparser.iml" filepath="$PROJECT_DIR$/p0791xmlpullparser/p0791xmlpullparser.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1021touch/p1021touch.iml" filepath="$PROJECT_DIR$/p1021touch/p1021touch.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1031multitouch/p1031multitouch.iml" filepath="$PROJECT_DIR$/p1031multitouch/p1031multitouch.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1041fragmentlifecycle/p1041fragmentlifecycle.iml" filepath="$PROJECT_DIR$/p1041fragmentlifecycle/p1041fragmentlifecycle.iml" />
